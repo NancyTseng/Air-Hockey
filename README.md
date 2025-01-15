@@ -8,5 +8,5 @@
  - 遊戲結束: 其中一方得到10分，宣布贏家/輸家
 
 
-![Sample Image](https://github.com/johndoe/my-repo/blob/main/assets/sample.png)
+![Sample Image](https://github.com/NancyTseng/Air-Hockey/blob/main/assets/GameWindow.png)
 
