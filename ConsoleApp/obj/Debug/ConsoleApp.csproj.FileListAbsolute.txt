@@ -1,0 +1,14 @@
+C:\Users\maver\Downloads\c#hwwww\ballslide (2)\ballslide\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+C:\Users\maver\Downloads\c#hwwww\ballslide (2)\ballslide\ConsoleApp\bin\Debug\ConsoleApp.exe
+C:\Users\maver\Downloads\c#hwwww\ballslide (2)\ballslide\ConsoleApp\bin\Debug\ConsoleApp.pdb
+C:\Users\maver\Downloads\c#hwwww\ballslide (2)\ballslide\ConsoleApp\obj\Debug\ConsoleApp.csprojAssemblyReference.cache
+C:\Users\maver\Downloads\c#hwwww\ballslide (2)\ballslide\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\maver\Downloads\c#hwwww\ballslide (2)\ballslide\ConsoleApp\obj\Debug\ConsoleApp.exe
+C:\Users\maver\Downloads\c#hwwww\ballslide (2)\ballslide\ConsoleApp\obj\Debug\ConsoleApp.pdb
+C:\Users\maver\Desktop\Air Hockey\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+C:\Users\maver\Desktop\Air Hockey\ConsoleApp\bin\Debug\ConsoleApp.exe
+C:\Users\maver\Desktop\Air Hockey\ConsoleApp\bin\Debug\ConsoleApp.pdb
+C:\Users\maver\Desktop\Air Hockey\ConsoleApp\obj\Debug\ConsoleApp.csprojAssemblyReference.cache
+C:\Users\maver\Desktop\Air Hockey\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\maver\Desktop\Air Hockey\ConsoleApp\obj\Debug\ConsoleApp.exe
+C:\Users\maver\Desktop\Air Hockey\ConsoleApp\obj\Debug\ConsoleApp.pdb

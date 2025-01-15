@@ -1,0 +1,173 @@
+C:\vs2019\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\vs2019\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.Form1.resources
+C:\vs2019\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\vs2019\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.AssemblyInfoInputs.cache
+C:\vs2019\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.AssemblyInfo.cs
+C:\vs2019\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\vs2019\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\netcoreapp3.1\WindowsFormsApp2.exe
+C:\vs2019\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\netcoreapp3.1\WindowsFormsApp2.deps.json
+C:\vs2019\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\netcoreapp3.1\WindowsFormsApp2.runtimeconfig.json
+C:\vs2019\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\netcoreapp3.1\WindowsFormsApp2.runtimeconfig.dev.json
+C:\vs2019\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\netcoreapp3.1\WindowsFormsApp2.dll
+C:\vs2019\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\netcoreapp3.1\WindowsFormsApp2.pdb
+C:\vs2019\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.dll
+C:\vs2019\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.pdb
+C:\vs2019\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.genruntimeconfig.cache
+C:\Users\zqwxc\Desktop\ballslide\WindowsFormsApp2\bin\Debug\netcoreapp3.1\WindowsFormsApp2.exe
+C:\Users\zqwxc\Desktop\ballslide\WindowsFormsApp2\bin\Debug\netcoreapp3.1\WindowsFormsApp2.deps.json
+C:\Users\zqwxc\Desktop\ballslide\WindowsFormsApp2\bin\Debug\netcoreapp3.1\WindowsFormsApp2.runtimeconfig.json
+C:\Users\zqwxc\Desktop\ballslide\WindowsFormsApp2\bin\Debug\netcoreapp3.1\WindowsFormsApp2.runtimeconfig.dev.json
+C:\Users\zqwxc\Desktop\ballslide\WindowsFormsApp2\bin\Debug\netcoreapp3.1\WindowsFormsApp2.dll
+C:\Users\zqwxc\Desktop\ballslide\WindowsFormsApp2\bin\Debug\netcoreapp3.1\WindowsFormsApp2.pdb
+C:\Users\zqwxc\Desktop\ballslide\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\zqwxc\Desktop\ballslide\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.Form1.resources
+C:\Users\zqwxc\Desktop\ballslide\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\zqwxc\Desktop\ballslide\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.AssemblyInfoInputs.cache
+C:\Users\zqwxc\Desktop\ballslide\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.AssemblyInfo.cs
+C:\Users\zqwxc\Desktop\ballslide\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\zqwxc\Desktop\ballslide\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.dll
+C:\Users\zqwxc\Desktop\ballslide\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.pdb
+C:\Users\zqwxc\Desktop\ballslide\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.genruntimeconfig.cache
+C:\Users\丁柏豪\Desktop\ballslide\WindowsFormsApp2\bin\Debug\netcoreapp3.1\WindowsFormsApp2.exe
+C:\Users\丁柏豪\Desktop\ballslide\WindowsFormsApp2\bin\Debug\netcoreapp3.1\WindowsFormsApp2.deps.json
+C:\Users\丁柏豪\Desktop\ballslide\WindowsFormsApp2\bin\Debug\netcoreapp3.1\WindowsFormsApp2.runtimeconfig.json
+C:\Users\丁柏豪\Desktop\ballslide\WindowsFormsApp2\bin\Debug\netcoreapp3.1\WindowsFormsApp2.runtimeconfig.dev.json
+C:\Users\丁柏豪\Desktop\ballslide\WindowsFormsApp2\bin\Debug\netcoreapp3.1\WindowsFormsApp2.dll
+C:\Users\丁柏豪\Desktop\ballslide\WindowsFormsApp2\bin\Debug\netcoreapp3.1\WindowsFormsApp2.pdb
+C:\Users\丁柏豪\Desktop\ballslide\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\丁柏豪\Desktop\ballslide\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.Form1.resources
+C:\Users\丁柏豪\Desktop\ballslide\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\丁柏豪\Desktop\ballslide\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.AssemblyInfoInputs.cache
+C:\Users\丁柏豪\Desktop\ballslide\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.AssemblyInfo.cs
+C:\Users\丁柏豪\Desktop\ballslide\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\丁柏豪\Desktop\ballslide\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.dll
+C:\Users\丁柏豪\Desktop\ballslide\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.pdb
+C:\Users\丁柏豪\Desktop\ballslide\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.genruntimeconfig.cache
+C:\Users\林奕融\Desktop\ballslide (2)\ballslide\WindowsFormsApp2\bin\Debug\netcoreapp3.1\WindowsFormsApp2.exe
+C:\Users\林奕融\Desktop\ballslide (2)\ballslide\WindowsFormsApp2\bin\Debug\netcoreapp3.1\WindowsFormsApp2.deps.json
+C:\Users\林奕融\Desktop\ballslide (2)\ballslide\WindowsFormsApp2\bin\Debug\netcoreapp3.1\WindowsFormsApp2.runtimeconfig.json
+C:\Users\林奕融\Desktop\ballslide (2)\ballslide\WindowsFormsApp2\bin\Debug\netcoreapp3.1\WindowsFormsApp2.runtimeconfig.dev.json
+C:\Users\林奕融\Desktop\ballslide (2)\ballslide\WindowsFormsApp2\bin\Debug\netcoreapp3.1\WindowsFormsApp2.dll
+C:\Users\林奕融\Desktop\ballslide (2)\ballslide\WindowsFormsApp2\bin\Debug\netcoreapp3.1\WindowsFormsApp2.pdb
+C:\Users\林奕融\Desktop\ballslide (2)\ballslide\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\林奕融\Desktop\ballslide (2)\ballslide\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.Form1.resources
+C:\Users\林奕融\Desktop\ballslide (2)\ballslide\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\林奕融\Desktop\ballslide (2)\ballslide\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.AssemblyInfoInputs.cache
+C:\Users\林奕融\Desktop\ballslide (2)\ballslide\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.AssemblyInfo.cs
+C:\Users\林奕融\Desktop\ballslide (2)\ballslide\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\林奕融\Desktop\ballslide (2)\ballslide\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.dll
+C:\Users\林奕融\Desktop\ballslide (2)\ballslide\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.pdb
+C:\Users\林奕融\Desktop\ballslide (2)\ballslide\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.genruntimeconfig.cache
+C:\Users\HUAWEI_NB\Desktop\Nancy\ballslide (2)\ballslide (2)\ballslide\WindowsFormsApp2\bin\Debug\netcoreapp3.1\WindowsFormsApp2.exe
+C:\Users\HUAWEI_NB\Desktop\Nancy\ballslide (2)\ballslide (2)\ballslide\WindowsFormsApp2\bin\Debug\netcoreapp3.1\WindowsFormsApp2.deps.json
+C:\Users\HUAWEI_NB\Desktop\Nancy\ballslide (2)\ballslide (2)\ballslide\WindowsFormsApp2\bin\Debug\netcoreapp3.1\WindowsFormsApp2.runtimeconfig.json
+C:\Users\HUAWEI_NB\Desktop\Nancy\ballslide (2)\ballslide (2)\ballslide\WindowsFormsApp2\bin\Debug\netcoreapp3.1\WindowsFormsApp2.runtimeconfig.dev.json
+C:\Users\HUAWEI_NB\Desktop\Nancy\ballslide (2)\ballslide (2)\ballslide\WindowsFormsApp2\bin\Debug\netcoreapp3.1\WindowsFormsApp2.dll
+C:\Users\HUAWEI_NB\Desktop\Nancy\ballslide (2)\ballslide (2)\ballslide\WindowsFormsApp2\bin\Debug\netcoreapp3.1\WindowsFormsApp2.pdb
+C:\Users\HUAWEI_NB\Desktop\Nancy\ballslide (2)\ballslide (2)\ballslide\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\HUAWEI_NB\Desktop\Nancy\ballslide (2)\ballslide (2)\ballslide\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.Form1.resources
+C:\Users\HUAWEI_NB\Desktop\Nancy\ballslide (2)\ballslide (2)\ballslide\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\HUAWEI_NB\Desktop\Nancy\ballslide (2)\ballslide (2)\ballslide\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.AssemblyInfoInputs.cache
+C:\Users\HUAWEI_NB\Desktop\Nancy\ballslide (2)\ballslide (2)\ballslide\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.AssemblyInfo.cs
+C:\Users\HUAWEI_NB\Desktop\Nancy\ballslide (2)\ballslide (2)\ballslide\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\HUAWEI_NB\Desktop\Nancy\ballslide (2)\ballslide (2)\ballslide\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.dll
+C:\Users\HUAWEI_NB\Desktop\Nancy\ballslide (2)\ballslide (2)\ballslide\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.pdb
+C:\Users\HUAWEI_NB\Desktop\Nancy\ballslide (2)\ballslide (2)\ballslide\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.genruntimeconfig.cache
+C:\Users\HUAWEI_NB\Desktop\Nancy\ballslide (2)\ballslide (2)\ballslide\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.Form2.resources
+C:\Users\丁柏豪\Desktop\c#hw\ballslide (2)\ballslide\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\丁柏豪\Desktop\c#hw\ballslide (2)\ballslide\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.Form1.resources
+C:\Users\丁柏豪\Desktop\c#hw\ballslide (2)\ballslide\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.Form2.resources
+C:\Users\丁柏豪\Desktop\c#hw\ballslide (2)\ballslide\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\丁柏豪\Desktop\c#hw\ballslide (2)\ballslide\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.AssemblyInfoInputs.cache
+C:\Users\丁柏豪\Desktop\c#hw\ballslide (2)\ballslide\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.AssemblyInfo.cs
+C:\Users\丁柏豪\Desktop\c#hw\ballslide (2)\ballslide\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\丁柏豪\Desktop\c#hw\ballslide (2)\ballslide\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.dll
+C:\Users\丁柏豪\Desktop\c#hw\ballslide (2)\ballslide\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.pdb
+C:\Users\丁柏豪\Desktop\c#hw\ballslide (2)\ballslide\WindowsFormsApp2\bin\Debug\netcoreapp3.1\WindowsFormsApp2.exe
+C:\Users\丁柏豪\Desktop\c#hw\ballslide (2)\ballslide\WindowsFormsApp2\bin\Debug\netcoreapp3.1\WindowsFormsApp2.deps.json
+C:\Users\丁柏豪\Desktop\c#hw\ballslide (2)\ballslide\WindowsFormsApp2\bin\Debug\netcoreapp3.1\WindowsFormsApp2.runtimeconfig.json
+C:\Users\丁柏豪\Desktop\c#hw\ballslide (2)\ballslide\WindowsFormsApp2\bin\Debug\netcoreapp3.1\WindowsFormsApp2.runtimeconfig.dev.json
+C:\Users\丁柏豪\Desktop\c#hw\ballslide (2)\ballslide\WindowsFormsApp2\bin\Debug\netcoreapp3.1\WindowsFormsApp2.dll
+C:\Users\丁柏豪\Desktop\c#hw\ballslide (2)\ballslide\WindowsFormsApp2\bin\Debug\netcoreapp3.1\WindowsFormsApp2.pdb
+C:\Users\丁柏豪\Desktop\c#hw\ballslide (2)\ballslide\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.genruntimeconfig.cache
+C:\Users\zqwxc\Desktop\c#hw\ballslide (2)\ballslide\WindowsFormsApp2\bin\Debug\netcoreapp3.1\WindowsFormsApp2.exe
+C:\Users\zqwxc\Desktop\c#hw\ballslide (2)\ballslide\WindowsFormsApp2\bin\Debug\netcoreapp3.1\WindowsFormsApp2.deps.json
+C:\Users\zqwxc\Desktop\c#hw\ballslide (2)\ballslide\WindowsFormsApp2\bin\Debug\netcoreapp3.1\WindowsFormsApp2.runtimeconfig.json
+C:\Users\zqwxc\Desktop\c#hw\ballslide (2)\ballslide\WindowsFormsApp2\bin\Debug\netcoreapp3.1\WindowsFormsApp2.runtimeconfig.dev.json
+C:\Users\zqwxc\Desktop\c#hw\ballslide (2)\ballslide\WindowsFormsApp2\bin\Debug\netcoreapp3.1\WindowsFormsApp2.dll
+C:\Users\zqwxc\Desktop\c#hw\ballslide (2)\ballslide\WindowsFormsApp2\bin\Debug\netcoreapp3.1\WindowsFormsApp2.pdb
+C:\Users\zqwxc\Desktop\c#hw\ballslide (2)\ballslide\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\zqwxc\Desktop\c#hw\ballslide (2)\ballslide\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.Form1.resources
+C:\Users\zqwxc\Desktop\c#hw\ballslide (2)\ballslide\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.Form2.resources
+C:\Users\zqwxc\Desktop\c#hw\ballslide (2)\ballslide\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\zqwxc\Desktop\c#hw\ballslide (2)\ballslide\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.AssemblyInfoInputs.cache
+C:\Users\zqwxc\Desktop\c#hw\ballslide (2)\ballslide\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.AssemblyInfo.cs
+C:\Users\zqwxc\Desktop\c#hw\ballslide (2)\ballslide\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\zqwxc\Desktop\c#hw\ballslide (2)\ballslide\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.dll
+C:\Users\zqwxc\Desktop\c#hw\ballslide (2)\ballslide\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.pdb
+C:\Users\zqwxc\Desktop\c#hw\ballslide (2)\ballslide\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.genruntimeconfig.cache
+C:\Users\丁柏豪\Desktop\c#hwwww\ballslide (2)\ballslide\WindowsFormsApp2\bin\Debug\netcoreapp3.1\WindowsFormsApp2.exe
+C:\Users\丁柏豪\Desktop\c#hwwww\ballslide (2)\ballslide\WindowsFormsApp2\bin\Debug\netcoreapp3.1\WindowsFormsApp2.deps.json
+C:\Users\丁柏豪\Desktop\c#hwwww\ballslide (2)\ballslide\WindowsFormsApp2\bin\Debug\netcoreapp3.1\WindowsFormsApp2.runtimeconfig.json
+C:\Users\丁柏豪\Desktop\c#hwwww\ballslide (2)\ballslide\WindowsFormsApp2\bin\Debug\netcoreapp3.1\WindowsFormsApp2.runtimeconfig.dev.json
+C:\Users\丁柏豪\Desktop\c#hwwww\ballslide (2)\ballslide\WindowsFormsApp2\bin\Debug\netcoreapp3.1\WindowsFormsApp2.dll
+C:\Users\丁柏豪\Desktop\c#hwwww\ballslide (2)\ballslide\WindowsFormsApp2\bin\Debug\netcoreapp3.1\WindowsFormsApp2.pdb
+C:\Users\丁柏豪\Desktop\c#hwwww\ballslide (2)\ballslide\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\丁柏豪\Desktop\c#hwwww\ballslide (2)\ballslide\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.Form1.resources
+C:\Users\丁柏豪\Desktop\c#hwwww\ballslide (2)\ballslide\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.Form2.resources
+C:\Users\丁柏豪\Desktop\c#hwwww\ballslide (2)\ballslide\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\丁柏豪\Desktop\c#hwwww\ballslide (2)\ballslide\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.AssemblyInfoInputs.cache
+C:\Users\丁柏豪\Desktop\c#hwwww\ballslide (2)\ballslide\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.AssemblyInfo.cs
+C:\Users\丁柏豪\Desktop\c#hwwww\ballslide (2)\ballslide\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\丁柏豪\Desktop\c#hwwww\ballslide (2)\ballslide\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.dll
+C:\Users\丁柏豪\Desktop\c#hwwww\ballslide (2)\ballslide\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.pdb
+C:\Users\丁柏豪\Desktop\c#hwwww\ballslide (2)\ballslide\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.genruntimeconfig.cache
+C:\Users\maver\Downloads\c#hwwww\ballslide (2)\ballslide\WindowsFormsApp2\bin\Debug\netcoreapp3.1\WindowsFormsApp2.exe
+C:\Users\maver\Downloads\c#hwwww\ballslide (2)\ballslide\WindowsFormsApp2\bin\Debug\netcoreapp3.1\WindowsFormsApp2.deps.json
+C:\Users\maver\Downloads\c#hwwww\ballslide (2)\ballslide\WindowsFormsApp2\bin\Debug\netcoreapp3.1\WindowsFormsApp2.runtimeconfig.json
+C:\Users\maver\Downloads\c#hwwww\ballslide (2)\ballslide\WindowsFormsApp2\bin\Debug\netcoreapp3.1\WindowsFormsApp2.runtimeconfig.dev.json
+C:\Users\maver\Downloads\c#hwwww\ballslide (2)\ballslide\WindowsFormsApp2\bin\Debug\netcoreapp3.1\WindowsFormsApp2.dll
+C:\Users\maver\Downloads\c#hwwww\ballslide (2)\ballslide\WindowsFormsApp2\bin\Debug\netcoreapp3.1\WindowsFormsApp2.pdb
+C:\Users\maver\Downloads\c#hwwww\ballslide (2)\ballslide\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\maver\Downloads\c#hwwww\ballslide (2)\ballslide\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.Form1.resources
+C:\Users\maver\Downloads\c#hwwww\ballslide (2)\ballslide\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.Form2.resources
+C:\Users\maver\Downloads\c#hwwww\ballslide (2)\ballslide\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\maver\Downloads\c#hwwww\ballslide (2)\ballslide\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.AssemblyInfoInputs.cache
+C:\Users\maver\Downloads\c#hwwww\ballslide (2)\ballslide\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.AssemblyInfo.cs
+C:\Users\maver\Downloads\c#hwwww\ballslide (2)\ballslide\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\maver\Downloads\c#hwwww\ballslide (2)\ballslide\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.dll
+C:\Users\maver\Downloads\c#hwwww\ballslide (2)\ballslide\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.pdb
+C:\Users\maver\Downloads\c#hwwww\ballslide (2)\ballslide\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.genruntimeconfig.cache
+C:\Users\maver\Desktop\Air Hockey\WindowsFormsApp2\bin\Debug\netcoreapp3.1\WindowsFormsApp2.exe
+C:\Users\maver\Desktop\Air Hockey\WindowsFormsApp2\bin\Debug\netcoreapp3.1\WindowsFormsApp2.deps.json
+C:\Users\maver\Desktop\Air Hockey\WindowsFormsApp2\bin\Debug\netcoreapp3.1\WindowsFormsApp2.runtimeconfig.json
+C:\Users\maver\Desktop\Air Hockey\WindowsFormsApp2\bin\Debug\netcoreapp3.1\WindowsFormsApp2.runtimeconfig.dev.json
+C:\Users\maver\Desktop\Air Hockey\WindowsFormsApp2\bin\Debug\netcoreapp3.1\WindowsFormsApp2.dll
+C:\Users\maver\Desktop\Air Hockey\WindowsFormsApp2\bin\Debug\netcoreapp3.1\WindowsFormsApp2.pdb
+C:\Users\maver\Desktop\Air Hockey\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\maver\Desktop\Air Hockey\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.Form1.resources
+C:\Users\maver\Desktop\Air Hockey\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.Form2.resources
+C:\Users\maver\Desktop\Air Hockey\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\maver\Desktop\Air Hockey\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.AssemblyInfoInputs.cache
+C:\Users\maver\Desktop\Air Hockey\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.AssemblyInfo.cs
+C:\Users\maver\Desktop\Air Hockey\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\maver\Desktop\Air Hockey\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.dll
+C:\Users\maver\Desktop\Air Hockey\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.pdb
+C:\Users\maver\Desktop\Air Hockey\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.genruntimeconfig.cache
+C:\Users\HUAWEI_NB\Desktop\Nancy\電腦網路\project2\Air Hockey\Air Hockey\WindowsFormsApp2\bin\Debug\netcoreapp3.1\WindowsFormsApp2.exe
+C:\Users\HUAWEI_NB\Desktop\Nancy\電腦網路\project2\Air Hockey\Air Hockey\WindowsFormsApp2\bin\Debug\netcoreapp3.1\WindowsFormsApp2.deps.json
+C:\Users\HUAWEI_NB\Desktop\Nancy\電腦網路\project2\Air Hockey\Air Hockey\WindowsFormsApp2\bin\Debug\netcoreapp3.1\WindowsFormsApp2.runtimeconfig.json
+C:\Users\HUAWEI_NB\Desktop\Nancy\電腦網路\project2\Air Hockey\Air Hockey\WindowsFormsApp2\bin\Debug\netcoreapp3.1\WindowsFormsApp2.runtimeconfig.dev.json
+C:\Users\HUAWEI_NB\Desktop\Nancy\電腦網路\project2\Air Hockey\Air Hockey\WindowsFormsApp2\bin\Debug\netcoreapp3.1\WindowsFormsApp2.dll
+C:\Users\HUAWEI_NB\Desktop\Nancy\電腦網路\project2\Air Hockey\Air Hockey\WindowsFormsApp2\bin\Debug\netcoreapp3.1\WindowsFormsApp2.pdb
+C:\Users\HUAWEI_NB\Desktop\Nancy\電腦網路\project2\Air Hockey\Air Hockey\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\HUAWEI_NB\Desktop\Nancy\電腦網路\project2\Air Hockey\Air Hockey\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.Form1.resources
+C:\Users\HUAWEI_NB\Desktop\Nancy\電腦網路\project2\Air Hockey\Air Hockey\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.Form2.resources
+C:\Users\HUAWEI_NB\Desktop\Nancy\電腦網路\project2\Air Hockey\Air Hockey\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\HUAWEI_NB\Desktop\Nancy\電腦網路\project2\Air Hockey\Air Hockey\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HUAWEI_NB\Desktop\Nancy\電腦網路\project2\Air Hockey\Air Hockey\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.AssemblyInfoInputs.cache
+C:\Users\HUAWEI_NB\Desktop\Nancy\電腦網路\project2\Air Hockey\Air Hockey\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.AssemblyInfo.cs
+C:\Users\HUAWEI_NB\Desktop\Nancy\電腦網路\project2\Air Hockey\Air Hockey\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\HUAWEI_NB\Desktop\Nancy\電腦網路\project2\Air Hockey\Air Hockey\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.dll
+C:\Users\HUAWEI_NB\Desktop\Nancy\電腦網路\project2\Air Hockey\Air Hockey\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.pdb
+C:\Users\HUAWEI_NB\Desktop\Nancy\電腦網路\project2\Air Hockey\Air Hockey\WindowsFormsApp2\obj\Debug\netcoreapp3.1\WindowsFormsApp2.genruntimeconfig.cache
